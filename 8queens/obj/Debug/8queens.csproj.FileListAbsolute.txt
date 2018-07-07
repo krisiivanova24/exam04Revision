@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\obj\Debug\8queens.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\obj\Debug\8queens.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\bin\Debug\8queens.exe.config
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\bin\Debug\8queens.exe
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\bin\Debug\8queens.pdb
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\obj\Debug\8queens.exe
+C:\Users\hristo\Desktop\ACD\reccursion\8queens\obj\Debug\8queens.pdb

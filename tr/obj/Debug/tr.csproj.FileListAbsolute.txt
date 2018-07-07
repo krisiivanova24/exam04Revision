@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\reccursion\tr\bin\Debug\tr.exe.config
+C:\Users\hristo\Desktop\ACD\reccursion\tr\bin\Debug\tr.exe
+C:\Users\hristo\Desktop\ACD\reccursion\tr\bin\Debug\tr.pdb
+C:\Users\hristo\Desktop\ACD\reccursion\tr\obj\Debug\tr.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\reccursion\tr\obj\Debug\tr.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\reccursion\tr\obj\Debug\tr.exe
+C:\Users\hristo\Desktop\ACD\reccursion\tr\obj\Debug\tr.pdb

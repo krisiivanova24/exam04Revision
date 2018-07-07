@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\bin\Debug\numberInLisTx2.exe.config
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\bin\Debug\numberInLisTx2.exe
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\bin\Debug\numberInLisTx2.pdb
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\obj\Debug\numberInLisTx2.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\obj\Debug\numberInLisTx2.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\obj\Debug\numberInLisTx2.exe
+C:\Users\hristo\Desktop\ACD\reccursion\numberInLisTx2\obj\Debug\numberInLisTx2.pdb

@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\bin\Debug\Nfactoriel.exe.config
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\bin\Debug\Nfactoriel.exe
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\bin\Debug\Nfactoriel.pdb
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\obj\Debug\Nfactoriel.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\obj\Debug\Nfactoriel.exe
+C:\Users\hristo\Desktop\ACD\reccursion\Nfactoriel\obj\Debug\Nfactoriel.pdb

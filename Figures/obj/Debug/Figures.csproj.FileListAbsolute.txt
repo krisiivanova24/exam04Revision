@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\bin\Debug\Figures.exe.config
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\bin\Debug\Figures.exe
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\bin\Debug\Figures.pdb
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\obj\Debug\Figures.exe
+C:\Users\hristo\Desktop\ACD\reccursion\Figures\obj\Debug\Figures.pdb
